@@ -1,1 +1,3 @@
 loic bellone   alexandre auptel
+
+en ecrivant ce texte, on modifie le fichier texte, ce sera notre deuxieme version une fois commit.
